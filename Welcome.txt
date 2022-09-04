@@ -1,0 +1,30 @@
+Welcome to senoir engineers to our review project wcheduled for 6pm September, 2022.
+
+Here are the preflight information before our projects kicks off -
+
+Stage 1 
+Engr Javis will be responsible to:
+  -> clone project code https://github.com/Eprosper01/maven-web-application
+  -> Edit src/main/webapp/jsps/home.jsp  { Devops review team is a group of engineers highly focused on deploying 21st century quality IT services. You can add more..}
+  -> commit code to github master branch https://github.com/Devops-review-group/drg.git
+
+Stage 2 
+Engr Eduje will be responsible to:
+  -> Configure and run CIDC pipeline with jenkins integration with
+  -> Maven to build - Sonaqube for CQ - Nexus for artifactory - Docker for docker images
+  -> push image to docker registry
+ 
+Stage 3 
+Engr Assumpta Agbams will be responsible to:
+ ->  scan and pull docker image from docker registry to your env. (dockerhub link for image will provided @ runtime) 
+ ->  create and start docker container ext. (if you have knowlegdge of docker swamp please proceed to deploy as well)
+ ->  display the app on your browser
+ 
+Stage 4
+Egnr Idia Tokunboh will responsible for:
+ -> deployment - strategy —-> rolling update  ——> ()
+ -> deployment - strategy —-> blue green update  ——> ()
+ 
+Stage 5
+Egnr xxxx xxxx will responsible for:
+ -> 5 Deployment using ansible playbook
