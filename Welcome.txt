@@ -21,7 +21,7 @@ Engr Assumpta Agbams will be responsible to:
  ->  display the app on your browser
  
 Stage 4
-Egnr Idia Tokunboh will responsible for:
+Egnr Idia Tokunboh & Brenda will responsible for:
  -> deployment - strategy —-> rolling update  ——> ()
  -> deployment - strategy —-> blue green update  ——> ()
  
